@@ -6,6 +6,5 @@ C# .NET: Linguagem de programação e framework principal do projeto.
 Dapper: Micro ORM para acesso a dados de forma eficiente.
 ASP.NET Core: Framework para desenvolvimento de aplicações web.
 SQL Server/MySQL: Banco de dados relacional para armazenamento de informações.
-JWT (JSON Web Tokens): Implementação de autenticação segura de usuários.
 Swagger: Documentação e testes da API.
 Injeção de Dependência: Gestão de dependências para um código mais organizado.
